@@ -1,3 +1,18 @@
+# Development has moved to TExec
+
+This repository is archived. Development, issues and releases continue in **[impishMD/TExec](https://github.com/impishMD/TExec)**.
+
+Репозиторий архивирован. Разработка, обсуждения и новые релизы находятся в **[impishMD/TExec](https://github.com/impishMD/TExec)**.
+
+- [TExec releases](https://github.com/impishMD/TExec/releases)
+- [Docker Hub](https://hub.docker.com/r/impishmd/texec)
+- [Helm repository](https://impishmd.github.io/TExec)
+
+The archived source and releases remain available here for reference.
+Исходники и прежние релизы сохранены здесь для справки.
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.svg">
